@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello Git333!!");
         System.out.println("hello Git44!!");
         System.out.println("hello Git5!!");
+        System.out.println("hello pull!!!!!");
     }
 }
